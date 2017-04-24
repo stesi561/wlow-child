@@ -31,7 +31,7 @@
 		    </ul>
 		</div>
 		
-		<div id="sitemap-ourpeople" class="col-md-2 hidden-xs col-sm-2 col-sm-offset-1">
+		<div id="sitemap-ourpeople" class="col-md-2 hidden-xs col-sm-2">
 		    <ul class="sitemap-list">
 			<li ><a href="https://www.greens.org.nz/ourpeople" title="Our People">Our People</a></li>
 			<li><a href="https://www.greens.org.nz/ourpeople/metiria-turei-mp" title="Metiria Turei">Metiria Turei</a></li>
@@ -66,7 +66,7 @@
 		    </ul>
 		</div>
 
-		<div id="sitemap-logo" class="col-md-2 col-sm-12">
+		<div id="sitemap-logo" class="col-md-2 col-sm-12 text-xs-center text-md-right">
 		    <a class="logo navbar-btn" href="https://www.greens.org.nz/" title="Home">
 			<img src="https://www.greens.org.nz/sites/all/themes/ws_greens/logo.png" alt="Home">
 		    </a>
