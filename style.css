@@ -1,0 +1,76 @@
+/*
+Theme Name: 	Wlow Child
+Theme URI: 	http://www.marchettidesign.net/wlow/
+Description: 	Responsive WordPress Theme based on Bootstrap and Font Awesome.
+Version:        0.1
+Author:         Luke Stewart
+Author URI:     none
+Site:           http://www.marchettidesign.net
+Template: wlow
+Text Domain: 	wlow
+Tags:        	grid-layout, blog, custom-menu, featured-images, right-sidebar
+License:    	GNU General Public License v3.0
+License URI:	http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+/*
+
+Fonts
+Footer
+
+*/
+
+
+
+
+/******************************************************************************
+                               Fonts 
+******************************************************************************/
+
+@font-face {
+    font-family: 'Green Sans Round';
+    src: url('//jarred.github.io/greens-type/UntitledSansRoundWeb-LightItalic.eot?') format('eot'),
+    url('//jarred.github.io/greens-type/UntitledSansRoundWeb-LightItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Green Sans Round';
+    src: url('//jarred.github.io/greens-type/UntitledSansRoundWeb-Bold.eot?') format('eot'),
+    url('//jarred.github.io/greens-type/UntitledSansRoundWeb-Bold.woff') format('woff');
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'Green Sans Round';
+    src: url('//jarred.github.io/greens-type/UntitledSansRoundWeb-Light.eot?') format('eot'),
+    url('//jarred.github.io/greens-type/UntitledSansRoundWeb-Light.woff') format('woff');
+    font-weight: normal;
+}
+
+p{
+    font-family: 'Green Sans Round',Arial, Helvetica, sans-serif !important;
+}
+
+/******************************************************************************
+                               Footer
+******************************************************************************/
+
+#greenfooter{
+    background-color: #00c760 !important;
+}
+
+#greenfooter .sitemap-list{
+    list-style: none;
+}
+
+#greenfooter .sitemap-list li:first-child{
+    text-transform:uppercase;
+}
+
+#greenfooter p, #greenfooter a{
+    color: #FFFFFF;
+}
+
+#sitemap-logo{
+    text-align: right;
+}
